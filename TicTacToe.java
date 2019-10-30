@@ -4,8 +4,7 @@ import java.awt.Color;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
-/**
- *
+/*
  * @author RaemonX
  */
 public class TicTacToe_s extends javax.swing.JFrame {
